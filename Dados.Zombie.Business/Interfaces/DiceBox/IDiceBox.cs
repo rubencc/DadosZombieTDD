@@ -7,5 +7,6 @@
         List<IDice> GetDice(int numberOfDices);
         bool IsEmpty();
         void RollDice();
+        int DiceInTheBox();
     }
 }

@@ -28,5 +28,10 @@
         {
             throw new System.NotImplementedException();
         }
+
+        public int DiceInTheBox()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
